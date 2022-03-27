@@ -11,6 +11,7 @@
   inputs.src-nimpb-master.ref   = "refs/heads/master";
   inputs.src-nimpb-master.owner = "oswjk";
   inputs.src-nimpb-master.repo  = "nimpb";
+  inputs.src-nimpb-master.dir   = "";
   inputs.src-nimpb-master.type  = "github";
   
   inputs."nimpb_protoc".owner = "nim-nix-pkgs";
